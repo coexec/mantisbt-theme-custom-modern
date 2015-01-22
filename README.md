@@ -6,11 +6,17 @@ This style can be used to quickly replace the default look of MantisBT.
 
 
 Authors and License
-===================
+-------------------
 
 Created in 2015 by Kay Stenschke.
 
 Licensed under the GNU GENERAL PUBLIC LICENSE, Version 2.
+
+
+Third Party Resources
+---------------------
+
+The custom icons used in this theme originate from the [Font Awesome Font](https://github.com/FortAwesome/Font-Awesome).
 
 
 Installation
