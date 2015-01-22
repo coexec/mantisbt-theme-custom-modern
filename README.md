@@ -28,5 +28,5 @@ Licensed under the GNU GENERAL PUBLIC LICENSE, Version 2.
 Third Party Resources
 ---------------------
 
-The custom.css stylesheet file is a modification of the default stylesheet delivered with MantisBT.
+The custom.css stylesheet file is a modification of the default stylesheet delivered with [MantisBT](https://www.mantisbt.org/).
 The custom icons used in this theme originate from the [Font Awesome Font](https://github.com/FortAwesome/Font-Awesome).
