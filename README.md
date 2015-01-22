@@ -1,5 +1,6 @@
-Custom CSS for MantisBT (clean, modern, minimalistic)
-=====================================================
+Custom CSS for MantisBT
+=======================
+
 A clean, modern, minimalistic stylesheet for the [Mantis Bug Tracker](https://www.mantisbt.org/)
 
 
