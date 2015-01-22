@@ -33,14 +33,14 @@ pre {
 }
 
 a {
-    color: #4183c4;
+    color: #3364a2;
 }
     a:hover {
         color: #333;
     }
 
     a.subtle {
-        color: #232323;
+        color: #1F508E;
         text-decoration: none;
         font-weight: normal;
         line-height: 1.1;
@@ -61,18 +61,22 @@ form {
         cursor: pointer;
     }
 
+    input.button:hover,
+    input[type=submit]:hover,
+    input.button-small:hover {
+
+    }
+
 span {
 
 }
     span.required {
-        /*font-size: 11pt;*/
-        color: #bb0000;
+        /*color: #bb0000;*/
     }
     span.small {
-        font-weight: unset;
+        /*font-weight: unset;*/
     }
     span.pagetitle {
-        /*font-size: 12pt;*/
         font-weight: bold;
         text-align: center
     }
@@ -321,7 +325,7 @@ td.login-info-right {
 }
 
 td.menu {
-    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.6);
+    background: none repeat scroll 0 0 #7d7b79;
     color: #fff;
     text-align: center;
     width: 100%;
