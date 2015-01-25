@@ -13,7 +13,7 @@ The theme was created and tested with Mantis release 1.2.17
 
 Installation
 ------------
-1. Copy css/custom.css and the images-directory (and its contents) over to your Mantis installation
+1. Copy all files to to your Mantis installation.
 2. Edit the file config_defaults_inc.php - set $g_css_include_file to point to custom.css (instead of default.css)
 
 
