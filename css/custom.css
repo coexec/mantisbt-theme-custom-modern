@@ -55,6 +55,7 @@ form {
     display: inline;
 }
 
+    label,
     input.button,
     input[type=submit],
     input.button-small {
