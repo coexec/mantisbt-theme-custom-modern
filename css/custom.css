@@ -160,15 +160,19 @@ td {
     td.form-title {
         background-color: #fff;
         color: #333;
-        font-weight: bold;
         text-align: left;
         padding-bottom: 12px;
         padding-top: 18px;
     }
+        td.login-info-left,
+        td.form-title,
+        td.form-title span,
+        td.form-title-caps {
+            font-weight: 400;
+        }
     td.form-title-caps {
         background-color: #fff;
         color: #333;
-        font-weight: bold;
         text-align: left;
         text-transform: uppercase;
     }
