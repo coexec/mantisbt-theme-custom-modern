@@ -67,6 +67,17 @@ form {
     input.button-small:hover {
 
     }
+    
+    input.button[value="Edit"] {
+        background: url('../images/update.png') 3px 3px no-repeat #3677b2;
+        padding: 2px 2px 2px 16px;
+        color: #fff;
+        border: none;
+        -moz-border-radius: 3px;
+        -webkit-border-radius: 3px;
+        border-radius: 3px;
+        -khtml-border-radius: 3px;
+    }
 
 span {
 
@@ -307,7 +318,7 @@ td.bugnote-note-private {
     background-color: #e8e8e8;
     color: #333;
     width: 75%;
-    vertical-align: top;
+    vertical-align: top;.b
 }
 
 td.login-info-left {
